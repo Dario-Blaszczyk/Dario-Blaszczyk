@@ -19,8 +19,6 @@
 📫 <b>How to reach me:</b><br/>
 *choSaghlaHbe’!*<br/>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6701090" style='border:none;'></iframe>
-
 ## My "The Odin Project Foundations" Progress:
 ###### Started: January 20, 2026
 * [x] **How This Course Will Work**
