@@ -50,7 +50,7 @@
     * [x] Intro to CSS
     * [x] The Cascade
     * [x] Inspecting HTML and CSS
-    * [ ] The Box Model
+    * [x] The Box Model
     * [ ] Block and Inline
 * [ ] **Flexbox**
     * [ ] Introduction to Flexbox
