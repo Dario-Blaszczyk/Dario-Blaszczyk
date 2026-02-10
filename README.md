@@ -46,7 +46,7 @@
     * [x] Links and Images
     * [x] Commit Messages
     * [x] **Project: Recipes**
-* [ ] **CSS Foundations**
+* [X] **CSS Foundations**
     * [x] Intro to CSS
     * [x] The Cascade
     * [x] Inspecting HTML and CSS
