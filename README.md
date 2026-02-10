@@ -51,7 +51,7 @@
     * [x] The Cascade
     * [x] Inspecting HTML and CSS
     * [x] The Box Model
-    * [ ] Block and Inline
+    * [X] Block and Inline
 * [ ] **Flexbox**
     * [ ] Introduction to Flexbox
     * [ ] Growing and Shrinking
