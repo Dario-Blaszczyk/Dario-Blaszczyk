@@ -53,10 +53,10 @@
     * [x] The Box Model
     * [X] Block and Inline
 * [ ] **Flexbox**
-    * [ ] Introduction to Flexbox
-    * [ ] Growing and Shrinking
-    * [ ] Axes
-    * [ ] Alignment
+    * [x] Introduction to Flexbox
+    * [x] Growing and Shrinking
+    * [x] Axes
+    * [x] Alignment
     * [ ] **Project: Landing Page**
 * [ ] **JavaScript Basics**
     * [ ] Variables and Operators
